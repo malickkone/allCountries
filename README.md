@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## App start to waiting data load
 
-- [alt text](assets/images/worldcolor2.png)
+![alt text](assets/images/worldcolor2.png)
