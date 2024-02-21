@@ -17,4 +17,16 @@ samples, guidance on mobile development, and a full API reference.
 
 ## App start to waiting data load
 
-![alt text](assets/images/worldcolor2.png)
+![alt text](assets/images/Capture.PNG)
+
+## List off all countries page
+
+![alt text](assets/images/Capture1.PNG)
+
+## User searching a country
+
+![alt text](assets/images/Capture2.PNG)
+
+## Country details page
+
+![alt text](assets/images/Capture3.PNG)
